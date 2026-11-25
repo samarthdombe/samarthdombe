@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+  ![snake gif](https://github.com/samarthdombe/samarthdombe/blob/output/github-snake-dark.svg)
+</div>
+
+<br/>
+
+<div align="center">
+<sub>engineered in code, directed in daydreams</sub>
+</div>
